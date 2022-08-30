@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **omar.fsc19@gmail.com**
 
-- ⚡ Fun fact **Odio a las mariposas**
+- ⚡ Fun fact **butterflies scare me 🦋😱 **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
