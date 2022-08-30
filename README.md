@@ -38,6 +38,7 @@
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a><l/li>
 <br>
 <br>
+ <p>Contact to me</p>
 <p align="left">
 <a href="https://linkedin.com/in/omar-fernando-505a041a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omar-fernando-505a041a3" height="30" width="40" /></a>
 </p>
