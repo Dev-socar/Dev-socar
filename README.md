@@ -46,8 +46,6 @@
 <a href="https://linkedin.com/in/omar-fernando-505a041a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omar-fernando-505a041a3" height="30" width="40" /></a>
 </p>
 
-![Omar's github stats](https://github-readme-stats.vercel.app/api?username=Dev-socar)
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-socar&show_icons=true&theme=dark)
 </p>
 
