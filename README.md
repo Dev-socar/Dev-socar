@@ -6,7 +6,7 @@
 
 <h3 align="center"> Computer Science Student UADY FMAT </h3>
 
-<p font-size="15px" color="blue"> Skills </p>
+<p font-size="15px" style="color:blue"> Skills </p>
 <p><li>HTML5</li></p>
 <p><li>CSS3</li></p>
 <p><li>PHP</li></p>
