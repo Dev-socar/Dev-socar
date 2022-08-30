@@ -31,7 +31,7 @@
    
  <br>
  <br>
- <p align="center">
+ <p align="left">
   <img src= 'https://github.com/Dev-socar/Dev-socar/blob/main/stats.png' />
   </p>
  
