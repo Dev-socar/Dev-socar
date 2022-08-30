@@ -31,7 +31,9 @@
    
  <br>
  <br>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-socar&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+ <p align="center">
+  <img src= 'https://github.com/Dev-socar/Dev-socar/blob/main/stats'  width=200 heigh=200 />
+  </p>
  
  
  <p>Data Base</p>
