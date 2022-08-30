@@ -6,10 +6,10 @@
 
 <h2 align="center"> Computer Science Student UADY FMAT </h2>
 <p>
-  <li>You can find personal and school projects.</li>
-  <li>I am interested in the area of web development.</li>
-  <li>Every day I try to learn new technologies.</li>
-  <li>You can chat with me through: omar.fsc19@gmail.com</li>
+  <li>You can find personal and school projects :rocket: .</li>
+  <li>I am interested in the area of web development :desktop_computer: .</li>
+  <li>Every day I try to learn new technologies:blue_book: .</li>
+  <li>You can chat with me through: omar.fsc19@gmail.com :e-mail:</li>
 </p>
 
 <h3> Skills </h3>
