@@ -32,7 +32,7 @@
  <br>
  <br>
  <p align="center">
-  <img src= 'https://github.com/Dev-socar/Dev-socar/blob/main/stats'  width=200 heigh=200 />
+  <img src= 'https://github.com/Dev-socar/Dev-socar/blob/main/stats.png' />
   </p>
  
  
