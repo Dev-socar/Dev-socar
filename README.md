@@ -8,7 +8,7 @@
 - 📫 How to reach me **omar.fsc19@gmail.com**
 
 - ⚡ Fun fact **butterflies scare me 🦋😱 **
-- :link: <a href="https://dev-socar.github.io/OmarSolisDev/" target="_blank">Portfolio Web</a>
+- :link: <a href="https://devomarsolis.netlify.app/" target="_blank">Portfolio Web</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
