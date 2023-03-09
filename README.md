@@ -3,7 +3,7 @@
 <p align="center">
   <img src= 'https://github.com/Dev-socar/Dev-socar/blob/main/spider2.webp'  width=200 heigh=200 />
 </p>
-- 🌱 I’m currently learning **Python, Laravel and Js**
+- 🌱 I’m currently learning **Vue js and Laravel**
 
 - 📫 How to reach me **omar.fsc19@gmail.com**
 
