@@ -7,6 +7,10 @@
   <img src= 'https://github.com/Dev-socar/Dev-socar/blob/main/spider2.webp'  width=400 heigh=400 />
 </p>
 
+<p align="left">
+  Hi, I'm Omar Solis Carvajal. I love programming in the web development field, as well as listening to music, especially Twenty One Pilots and WOS. I also enjoy meeting new people, chatting, and sharing knowledge.
+</p>
+
 ###
 
 <h2 align="left">🤝 Connect with me:</h2>
@@ -17,7 +21,9 @@
   <a href="https://www.linkedin.com/in/omar-fernando-solis/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="mailto:omarsolidev@gmail.com">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+</a>
   <a href="https://www.youtube.com/@AmantesDelCodigo" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
