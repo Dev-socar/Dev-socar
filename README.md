@@ -2,6 +2,11 @@
 
 <h1 align="left">Hello  there 👋</h1>
 
+
+<p align="center">
+  <img src= 'https://github.com/Dev-socar/Dev-socar/blob/main/spider2.webp'  width=200 heigh=200 />
+</p>
+
 ###
 
 <h2 align="left">🤝 Connect with me:</h2>
